@@ -7,13 +7,14 @@ View the interactive project at https://acalvino4.github.io/ravenous.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). For info on running or building from source, see below.
 
-\
-\
-\
-\
-\
-  \
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Available Scripts
 
