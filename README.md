@@ -1,3 +1,9 @@
+This project is a Yelp clone I created with guidance by Codecademy.  I created and built the html of each react component, managed setting the state of each component, managed passing of props between components, and coded the fetching of data from the Yelp API.  The CSS was provided by Codecademy.
+
+View the interactive project at https://acalvino4.github.io/ravenous.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
