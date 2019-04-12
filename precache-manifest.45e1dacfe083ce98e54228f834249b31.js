@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/ravenous/static/js/runtime~main.9f839d09.js"
   },
   {
-    "revision": "8fcccf3782d5a29aa613",
-    "url": "/ravenous/static/js/main.8fcccf37.chunk.js"
+    "revision": "60462d63a9e3c8465e21",
+    "url": "/ravenous/static/js/main.60462d63.chunk.js"
   },
   {
     "revision": "9d65a0d5e5a889113337",
     "url": "/ravenous/static/js/1.9d65a0d5.chunk.js"
   },
   {
-    "revision": "8fcccf3782d5a29aa613",
-    "url": "/ravenous/static/css/main.b77d6f96.chunk.css"
+    "revision": "60462d63a9e3c8465e21",
+    "url": "/ravenous/static/css/main.98556d60.chunk.css"
   },
   {
-    "revision": "9424efa08ae0ac8827f2099e919d74be",
+    "revision": "b7e026a6e1731cc6c6214242fae5b6a8",
     "url": "/ravenous/index.html"
   }
 ];
