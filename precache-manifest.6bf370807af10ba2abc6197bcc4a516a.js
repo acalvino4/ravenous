@@ -1,9 +1,5 @@
 self.__precacheManifest = [
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/ravenous/static/media/logo.5d5d9eef.svg"
-  },
-  {
     "revision": "5d0905e66c87b168792e1cf920c613ee",
     "url": "/ravenous/static/media/background_search_mobile.5d0905e6.jpg"
   },
@@ -16,19 +12,19 @@ self.__precacheManifest = [
     "url": "/ravenous/static/js/runtime~main.9f839d09.js"
   },
   {
-    "revision": "69a98868c2fa7fa2e906",
-    "url": "/ravenous/static/js/main.69a98868.chunk.js"
+    "revision": "8fcccf3782d5a29aa613",
+    "url": "/ravenous/static/js/main.8fcccf37.chunk.js"
   },
   {
     "revision": "9d65a0d5e5a889113337",
     "url": "/ravenous/static/js/1.9d65a0d5.chunk.js"
   },
   {
-    "revision": "69a98868c2fa7fa2e906",
-    "url": "/ravenous/static/css/main.35464e5d.chunk.css"
+    "revision": "8fcccf3782d5a29aa613",
+    "url": "/ravenous/static/css/main.b77d6f96.chunk.css"
   },
   {
-    "revision": "49492e993035290859665f0b61e9499a",
+    "revision": "9424efa08ae0ac8827f2099e919d74be",
     "url": "/ravenous/index.html"
   }
 ];
