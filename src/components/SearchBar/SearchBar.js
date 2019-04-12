@@ -101,10 +101,7 @@ class SearchBar extends React.Component {
                     className="SearchBar-submit"
                     onClick={this.handleSearch}
                 >
-                    <input
-                        type='submit'
-                        value="Let's Go"
-                    />
+                    <button>Let's Go</button>
                 </div>
             </div>
         )
