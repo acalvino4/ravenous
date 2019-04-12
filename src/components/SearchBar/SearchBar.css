@@ -46,22 +46,22 @@
   .SearchBar-fields input {
     width: 21rem;
     padding: .66rem 1rem;
-    margin-right: 2.22rem;
+    margin: auto 1.5rem;
     border: 1px solid #fff;
     border-radius: 4px;
     font-size: .77rem;
     font-weight: 500;
   }
   
-  .SearchBar-fields input:last-child {
+  /* .SearchBar-fields input:last-child {
     margin-right: 0;
-  }
+  } */
   
   .SearchBar-submit {
     text-align: center;
   }
   
-  .SearchBar-submit a {
+  .SearchBar-submit input {
     border-radius: 4px;
     padding: .72rem 1.7rem;
     background-color: #cca353;
@@ -70,7 +70,7 @@
     transition: background-color .5s;
   }
   
-  .SearchBar-submit a:hover {
+  .SearchBar-submit input:hover {
     cursor: pointer;
     background-color: #a7874b;
   }
@@ -83,8 +83,13 @@
     .SearchBar-sort-options ul {
       margin-left: 2rem;
       margin-right: 2rem;
+      margin-bottom: 4rem;
     }
-  
+    
+    .SearchBar-sort-options li {
+      padding: 0 1.29rem .33rem 1.29rem;
+    }
+
     .SearchBar-fields {
       flex-direction: column;
       align-items: center;
@@ -92,6 +97,8 @@
   
     .SearchBar-fields input {
       margin-right: 0;
+      margin-left: 0;
       margin-bottom: .86rem;
+      width: 15rem;
     }
   }
