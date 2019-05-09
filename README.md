@@ -2,6 +2,12 @@
 
 This project is a Yelp clone I created with guidance by Codecademy.  I created and built the html of each react component, managed setting the state of each component, managed passing of props between components, and coded the fetching of data from the Yelp API.  The CSS was provided by Codecademy.
 
+Recent Improvements:
+* impoved CSS for mobile
+* auto search after changing sort option
+* search by pressing enter
+
+
 View the interactive project at https://acalvino4.github.io/ravenous.
 
 
@@ -16,8 +22,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * replace submit text with loading icon while searching.
 * if no results are returned, display message saying so
 
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
